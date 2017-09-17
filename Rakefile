@@ -13,7 +13,7 @@ namespace :pdf do
   desc "Generate PDF file"
   task :generate do
     puts "Generating PDF file from LaTeX"
-    system("pandoc -s --latex-engine=xelatex -V CJKmainfont='PingFang SC' -V mainfont='Monaco' -V geometry:margin=1in README.md  -o resume.pdf")
+    system("pandoc -s --latex-engine=xelatex -V CJKmainfont='PingFang SC Regular' -V mainfont='Monaco' -V geometry:margin=1in README.md  -o resume.pdf")
     puts "Done"
   end
 end
