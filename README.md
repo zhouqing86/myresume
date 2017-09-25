@@ -1,4 +1,4 @@
-周清
+  周清
 =============
 
 Web全栈软件开发工程师(Java/Ruby/Node.js/Scala/DevOps)
@@ -71,13 +71,13 @@ ThoughtWorks是一家追求技术卓越的企业，我有幸2014年加入并且�
 我在此子系统(Spring MVC + Mybatis)中主要参与后台部分公共函数的编写以及部分前端功能；后台功能涉及权限控制、Session处理、Excel导出、国际化处理、自定义标签，存储过程，SQL的调优等；前台功能涉及jQuery自定义Alert组件，jqGrid，MutiSelect，zTree，双日历控件等JS组件的合理使用。
 
 ## 中兴通讯  （2010年7月 ~ 2013年5月)
-工作期间做过一年多LTE系统协议黑盒测试和一年多对外交付测试。
+在中兴工作期间做过一年多LTE系统协议黑盒测试和一年多对外交付测试。
 
 ### 香港CSL LTE项目
 参与香港CSL LTE项目的多个系统版本的上线以及多期合同交付测试。作为核心测试人员，负责多个功能（LTE ICIC，SON，接纳控制，S1-flex，RAN sharing等）测试用例的编写以及测试用例的测试交付。2012年下半年我升任CSL LTE项目测试团队的负责人，带领一个2-3人小组完成有一期的合同交付。
 
 ### LTE系统测试
-毕业入职后在中兴LTE测试部分版本测试中表现优秀，同部分同年入职14个学生，转正前考核我的考核排名第一，获得中兴LTE中心最佳新人奖的荣誉。此后连续数月版本测试中提交BUG数量排名前三。
+毕业入职后在中兴LTE测试部分版本测试中表现优秀，同部门同年入职14个学生，转正前考核我的考核排名第一，获得中兴LTE中心最佳新人奖的荣誉。此后连续数月版本测试中提交BUG数量排名前三。
 
 技能列表
 -------
@@ -97,7 +97,7 @@ ThoughtWorks是一家追求技术卓越的企业，我有幸2014年加入并且�
 
 - Web/应用服务器：Nginx/Apache/Tomcat/Jetty/Unicorn
 
-- DevOps相关：AWS/Docker/Ansible/NewRelic/Splunk/Shell/Bamboo/Jenkins/阿里云/Daocloud/七牛
+- DevOps相关：AWS/Docker/Ansible/NewRelic/Splunk/Shell/Bamboo/Buildkite/Jenkins/阿里云/Daocloud/七牛
 
 - 编辑器：IntelliJ IDEA/Ruby Mine/Atom/Sublime/vim
 
@@ -108,4 +108,4 @@ ThoughtWorks是一家追求技术卓越的企业，我有幸2014年加入并且�
 
 学习过但没有在项目中使用过：
 
-- R语言/Python/Numpy/Pandans/Spring Cloud/ZooKeeper/Hadoop/Spark/React Native/Object C/Kotlin
+- R语言/Spring Cloud/ZooKeeper/Hadoop/Spark/Python/Numpy/Pandans//React Native/Object C/Kotlin
