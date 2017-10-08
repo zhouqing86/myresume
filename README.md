@@ -30,6 +30,8 @@ Web全栈软件开发工程师(Java/Ruby/Node.js/Scala/DevOps)
 
 2. 此外，我有两年多测试/QA经验，擅长探索性测试，测试文档编写。转职开发后，QA的经验让我在开发时比很多其他开发同事更加注重代码逻辑缜密，更加注重单元测试，更加注重代码质量，也更加注重沟通。
 
+3. 本人对Java语言相关的生态系统比较感兴趣，学习过的Java相关项目：Dubbo/Netty/Java多线程/Spring Cloud/RabbitMQ/RxJava/Kafka/Hadoop/Spark。
+
 工作经历
 -------
 ## ThoughtWorks (2014年7月 ~ 至今)
@@ -108,4 +110,6 @@ ThoughtWorks是一家追求技术卓越的企业，我有幸2014年加入并且�
 
 学习过但没有在项目中使用过：
 
-- R语言/Spring Cloud/ZooKeeper/Hadoop/Spark/Python/Numpy/Pandans//React Native/Object C/Kotlin
+- Java相关：Dubbo/Netty/Java多线程/Spring Cloud/RabbitMQ/RxJava/Kafka/Hadoop/Spark
+
+- 其他: Memchached/ZooKeeper/R语言/Python/Numpy/Pandans/React Native/Object C/Kotlin
