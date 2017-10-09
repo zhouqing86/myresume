@@ -1,7 +1,7 @@
   周清
 =============
 
-Web全栈软件开发工程师(Java/Ruby/Node.js/Scala/DevOps)
+Java高级工程师/Web全栈软件开发工程师(Java/Ruby/Node.js/Scala/DevOps)
 -----------------------
 
 - Phone: [15009206581](tel://15009206581)
@@ -17,6 +17,7 @@ Web全栈软件开发工程师(Java/Ruby/Node.js/Scala/DevOps)
 - Github: [zhouqing86](https://github.com/zhouqing86/)
 - 期望职位: Java高级工程师，全栈软件工程师
 - 期望城市: 深圳
+- Java语言相关：熟悉Java多线程/JVM/Spring MVC/Spring Boot/MyBatis/Hibernate/Dubbo/Netty/Spring Cloud/RabbitMQ/RxJava/Kafka/Java中间件/分布式事务等。
 
 个人总结/专长
 -------
@@ -29,8 +30,6 @@ Web全栈软件开发工程师(Java/Ruby/Node.js/Scala/DevOps)
     * 管理上，从2015年带新人的高级开发人员到2016年10+人团队的团队/技术管理者（近1年经验），逐步理解敏捷开发实践。逐渐对于管理好团队的目标/计划、营造团队良好技术氛围、培养团队好的工作习惯、团队精神激励、团队工作流程优化、新人培养、沟通管理、风险管理有了一定的经验。
 
 2. 此外，我有两年多测试/QA经验，擅长探索性测试，测试文档编写。转职开发后，QA的经验让我在开发时比很多其他开发同事更加注重代码逻辑缜密，更加注重单元测试，更加注重代码质量，也更加注重沟通。
-
-3. 本人对Java语言相关的生态系统比较感兴趣，学习过的Java相关项目：Dubbo/Netty/Java多线程/Spring Cloud/RabbitMQ/RxJava/Kafka/Hadoop/Spark。
 
 工作经历
 -------
@@ -108,8 +107,8 @@ ThoughtWorks是一家追求技术卓越的企业，我有幸2014年加入并且�
 - 其他：Git/Mac OS/Vagrant/zsh/HTML/CSS/JS/SASS/Linux基本命令行操作/LTE
 
 
-学习过但没有在项目中使用过：
+学习过但没有在生产环境项目中使用过：
 
-- Java相关：Dubbo/Netty/Java多线程/Spring Cloud/RabbitMQ/RxJava/Kafka/Hadoop/Spark
+- Java相关：Dubbo/Netty/Spring Cloud/RabbitMQ/RxJava/Kafka/Hadoop/Spark
 
 - 其他: Memchached/ZooKeeper/R语言/Python/Numpy/Pandans/React Native/Object C/Kotlin
