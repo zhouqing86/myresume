@@ -1,13 +1,13 @@
 Zhou Qing(周清)
 =============
 
-Senior Java Developer/Web Full Stack Developer(Java/Ruby/Node.js/Scala/DevOps)
+Senior Java Developer/Web Full Stack Developer(Java/Ruby/Node.js/DevOps)
 -----------------------
 
 - Phone: [15009206581](tel://15009206581)
 - Email: <27952278@qq.com>
 - QQ/Wechat：27952278
-- Work Experience: 7 years
+- Work Experience: 9 years
 
 Basic Information
 -------
@@ -22,23 +22,32 @@ Summary/Speciality
 -------
 I am a web full stack developer, I am familiar with TDD, continuous integration, continuous delivery, micro services and agile practice.
 
-1. I have more than four years experience on web developing, more than 3 years at ThoughtWorks and 1 year at Samsung SDS. I am familiar with Java/Ruby/Node.js related web frameworks such as spring boot, ruby on rails and React. And I am also good at DevOps tookits: AWS, docker, Ansible, Shell.
+1. I have more than 9 years experience, I ever worked at ZTE, ThoughtWorks, Samsung SDS, Tecent. Now I worked at EPAM as a tech leader. I am familiar with Java/Node.js/Ruby related web frameworks such as spring boot, ruby on rails and React. And I am also good at DevOps tookits: AWS, docker, Ansible, Shell.
 
-2. I have more than 1 year experience on 10+ people agile team management.
+2. I have more than 3 year experience on agile team management.
 
 3. I have more than 2 years QA experience, I did a good job at exploratory testing when I was an test engineer at ZTE Corporation.
 
 
 Work Experience
 -------
-## Tencent (2017-12 ~ Now)
+## EPAM (2018-05 ~ Now)
+### UBS China Bank Project
+Tech Leader of seven people team and building a team from scratch.
+
+Currently maily work on make the old applications and new vendor's applications to obey UBS internal policies: Continuous integration, Automated deployment, Security consideration, Job Scheduling, Internal tool, etc.
+
+The technical stack include Java/Tomcat/Websphere/Teamcity.  
+
+
+## Tencent (2017-12 ~ 2018-05)
 Senior Developer and Product Manager of five people team.
 
 In technical aspect, I am in charge of domain modeling and technology selection for the application.
 
 In PM aspect, I introduce agile practice into the team and do some business analysis work.
 
-The technical stack include ReactJS/PHP/Golang.
+The technical stack include ReactJS/Vue/PHP/Golang.
 
 ## ThoughtWorks (2014-07 ~ 2017-11)
 
@@ -71,7 +80,7 @@ This website mainly including 4 parts:
 
 Technical stack: React/Redux/Ruby On Rails/Java/Docker/Nginx/MySQL.
 
-## Samsung SDS （2013-06 ~ 2014-06)
+## Samsung SDS （2013-08 ~ 2014-06)
 Java developer and graduator coach.
 
 Involve in architecture design and technology selection.
@@ -90,11 +99,11 @@ Skills
 -------
 Ever used and familiar with：
 
-- Languages：Java/Ruby/Node.js/Scala/C++
+- Languages：Java/Ruby/Node.js/Scala/Golang/PHP/C++
 
-- Web Frameworks：RoR/Spring MVC/Play/MyBatis/Sinatra/Hibernate
+- Web Frameworks：Spring MVC/RoR/Play/MyBatis/Sinatra/Hibernate
 
-- Frontend Frameworks：ReactJS+Redux
+- Frontend Frameworks：ReactJS+Redux, Vue
 
 - Build：Gradle/SBT/Grunt/Webpack
 
